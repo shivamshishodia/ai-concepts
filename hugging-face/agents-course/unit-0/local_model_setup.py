@@ -1,3 +1,4 @@
+# Refer readme.md: Setup and Unit 0 for setup
 from smolagents import LiteLLMModel
 
 model = LiteLLMModel(
